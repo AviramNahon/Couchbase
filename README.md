@@ -1,2 +1,2 @@
 # Couchbase
-Couchbase .Net Client
+Couchbase .Net Client ile data cacheleme.
